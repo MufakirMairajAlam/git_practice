@@ -7,8 +7,7 @@ void main(){
   int b = 5;
 
   var res = Mutiple.mutiple(a, b);
-  print(res);
-
+  print("totla is $res");
 
 }
 
